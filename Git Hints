@@ -1,3 +1,5 @@
+git config --global
+
 Resenje moze biti ovo sa tim sto ces izgubiti te promene koje si napravio, a nisi komitovao
 ide prvo
 git fetch origin
